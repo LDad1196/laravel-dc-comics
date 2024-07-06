@@ -2,7 +2,7 @@
 
 namespace Database\Seeders;
 
-use app\Models\Comics;
+use App\Models\Comic;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 use Faker\Generator as Faker;
